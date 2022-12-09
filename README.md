@@ -1,5 +1,5 @@
 # Problema Trolley
-Problema Trolley (Em execução) - Português
+Problema Trolley - Português
 
 Disclaimer:
 Isto está a ser criado apenas por diversão:
